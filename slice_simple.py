@@ -4,5 +4,3 @@ def slice_simple():
     print(f"{texto[0:3]}")
     print(f"{texto[2:5]}")
     print(f"{texto[0:4]}{texto[4:7]}")
-
-slice_simple()
